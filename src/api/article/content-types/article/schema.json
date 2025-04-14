@@ -78,7 +78,7 @@
       },
       "default": 0
     },
-    "not_helpful": {
+    "notHelpful": {
       "type": "integer",
       "pluginOptions": {
         "i18n": {
